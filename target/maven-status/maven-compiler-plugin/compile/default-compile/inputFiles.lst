@@ -1,0 +1,17 @@
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\model\Visitors.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\rest\controller\NewsFeedRestController.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\cassandra\repository\NewsFeedTextsRepository.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\model\Customer.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\serviceImpl\AccessAPIImpl.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\dto\ResponseDTO.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\service\NewsFeedService.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\cassandra\repository\NewsFeedVideoRepository.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\dto\ResultDTO.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\service\AccessAPI.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\model\NewsVideoFeed.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\model\FeedURLTracker.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\model\NewsTextFeed.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\NewsFeedTrackersApp.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\cassandra\repository\VisitorsRepository.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\serviceImpl\NewsFeedServiceImpl.java
+D:\DEVTasks\devcodebase\contentProviderFeedTracker\src\main\java\com\airtel\feed\utils\APIConstants.java
